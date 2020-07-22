@@ -1,0 +1,38 @@
+* {
+    text-align: center;
+    color: white;
+    border: 0;
+}
+h1 {
+    background-color: green;
+}
+section{
+    display: flex;
+}
+.player1, .player2 {
+    flex: 1;
+}
+img {
+    width: 150px;
+    height: 150px;
+    margin: 20px;
+    margin: 50px;
+
+}
+.result {
+    font-size: 2rem;
+    margin-top: 40px;
+    padding: 40px;
+    background-color: green;
+    margin-bottom: 20px;
+    display: block;
+    margin: 30px auto;
+
+}
+.play{
+    display: block;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: green;
+    font-size: 2rem;
+}
